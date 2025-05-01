@@ -4,3 +4,4 @@ numpy==1.26.4
 streamlit==1.32.0
 nltk==3.8.1
 pdfplumber==0.11.6
+docx==1.1.2
